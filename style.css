@@ -2,5 +2,6 @@
 
 :root { 
  --font-family: 'Roboto Condensed', sans-serif;
-
+ --bg-color: #19A7CE;
+ --primary-color: #AFD3E2;
 }
